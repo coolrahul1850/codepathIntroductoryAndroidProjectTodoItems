@@ -1,9 +1,32 @@
 # Pre-work - *Todo*
 
 
+1/6/2016 Updates 
+Total time took 5 hours 
+
+Funcationlity Added 
+1) Custom Adapter
+2) Radio Buttons
+3) Priority 
+4) Alert dialogs
+
+Funtionality Lost 
+1) Persistence 
+
+Next action items 
+1) Work on persistence 
+2) Either work on SQLLite or improve UI
+
+New Walkthrough
+
+<a href="http://imgur.com/fzeLXF5"><img src="http://i.imgur.com/fzeLXF5.gif" title="source: imgur.com" /></a>
 
 
-<br></br>
+
+
+
+_________________________________________________________
+Original Message
 Pre-requisite for codepath android for developers. 
 
 Submitted by: **Rahul M**
