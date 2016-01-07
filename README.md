@@ -1,17 +1,20 @@
 # Pre-work - *Todo*
 
 
+<br>
 1/6/2016 Updates 
+<br>
 Total time took 5 hours 
 
+<br>
 Funcationlity Added 
-1) Custom Adapter
-2) Radio Buttons
-3) Priority 
-4) Alert dialogs
+<br>1) Custom Adapter
+<br>2) Radio Buttons
+<br>3) Priority 
+<br>4) Alert dialogs
 
-Funtionality Lost 
-1) Persistence 
+<br>Funtionality Lost 
+<br>1) Persistence 
 
 Next action items 
 1) Work on persistence 
