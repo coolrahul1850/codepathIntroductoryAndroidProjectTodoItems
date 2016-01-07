@@ -16,11 +16,11 @@ Funcationlity Added
 <br>Funtionality Lost 
 <br>1) Persistence 
 
-Next action items 
-1) Work on persistence 
-2) Either work on SQLLite or improve UI
+<br>Next action items 
+<br>1) Work on persistence 
+<br>2) Either work on SQLLite or improve UI
 
-New Walkthrough
+<br>New Walkthrough
 
 <a href="http://imgur.com/fzeLXF5"><img src="http://i.imgur.com/fzeLXF5.gif" title="source: imgur.com" /></a>
 
